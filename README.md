@@ -1,4 +1,4 @@
-Given data about credit card clients, we try to predict whether a given client will default or not.
+Given data about credit card clients, we try to predict whether a given client will default or not.  
 
 Logistic regression, support vector machine, and neural network models used to make our predictions.  
 
