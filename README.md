@@ -23,7 +23,7 @@ For the purpose of quality assurance, a manufacturer of medical lasers wants to 
 * evaluation/permormance metrics: `accuracy`, `recall`, `precision`, `f1-score`, `confusion matrix`, `AUC`, `ROC curve`
 * dataset: `laser.mat`
 
-### justify model's robustness
+### Justify model's robustness
 Following this steps to justify all model's robustness:
 * Model training using default parameters
 * Generating confusion matrix, classification report and ROC curve
