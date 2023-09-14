@@ -32,15 +32,18 @@ Following this steps to justify all model's robustness:
 * Generating confusion matrix, classification report and ROC curve for comparing with the default parameters
 
 ### Conclusion
-Among 4 models, We did not get any improvement after hyper-parameter tuning on the two following models:
+Among the 4 models, we did not get any improvement after hyper-parameter tuning on the two following models:
 * SVM (98%)
 * K-Nearest Neighbor (95%)
 
-On the other hand, Following two models showed a massive improvement after hyper-parameter tuning:
-* Decision Tree (from 83% to 93%)
+On the other hand, Following two models showed an improvement after hyper-parameter tuning:
+* Decision Tree (from 80% to 90%)
 * Random Forest (from 96% to 98%)
 
-So, Random Forest is outperforming all other models.
+Therefore, Random Forest is outperforming all other models.
+
+
+# Credit Card Default Prediction
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 Given data about credit card clients, we try to predict whether a given client will default or not.  
