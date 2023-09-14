@@ -15,7 +15,7 @@
 This machine learning project is a part of my Master's course `Machine Learning` to classify faulty and non-faulty lasers correctly.
 
 ### Problem Statement
-For the purpose of quality assurance, a manufacturer of medical lasers wants to introduce a system which recognizes defective products. For the lasers produced, a constant lightoutput with a frequency as constant as possible is desired. Certain fluctuations are accep-table; Lasers in which the power fluctuates to an intolerable extent should be sorted out.For this purpose, the intensity of each laser is measured for one minute – one measurement per second.
+For the purpose of quality assurance, a manufacturer of medical lasers wants to introduce a system which recognizes defective products. For the lasers produced, a constant lightoutput with a frequency as constant as possible is desired. Certain fluctuations are acceptable; Lasers in which the power fluctuates to an intolerable extent should be sorted out.For this purpose, the intensity of each laser is measured for one minute – one measurement per second.
 
 ### Implementation
 
