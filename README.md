@@ -19,7 +19,7 @@ For the purpose of quality assurance, a manufacturer of medical lasers wants to 
 
 ### Implementation
 
-* four classifiers: `Decision Tree`, `Random Forest`, `SVM(Support Vector Machine)`, `KNN(KNN (K Nearest Neighbor)`
+* four classifiers: `Decision Tree`, `Random Forest`, `SVM(Support Vector Machine)`, `KNN (K Nearest Neighbor)`
 * evaluation/permormance metrics: `accuracy`, `recall`, `precision`, `f1-score`, `confusion matrix`, `AUC`, `ROC curve`
 * dataset: `laser.mat`
 
